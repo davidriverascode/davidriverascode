@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Rivera</h1>
-<h3 align="center">Creative interested in Cybersecurity and anything Programming</h3>
+<h3 align="center">Creative interested in cybersecurity and anything programming</h3>
 <hr>
 
 - 🌱 I’m currently learning **TryHackMe, Unity**
