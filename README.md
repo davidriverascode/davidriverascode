@@ -2,7 +2,7 @@
 <h3 align="center">Creative interested in cybersecurity and anything programming</h3>
 <hr>
 
-- 🌱 I’m currently learning **Python Packages, Unity**
+- 🌱 I’m currently learning **Python Task Scheduling**
 
 - 📫 How to reach me **davidsrivera0@gmail.com**
 
