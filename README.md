@@ -43,6 +43,6 @@
 <h3>Something important to me: </h3>
 <div align="left">
       <a href="https://www.youtube.com/watch?v=qEJ4hkpQW8E">
-         <img src="https://img.youtube.com/vi/qEJ4hkpQW8E/0.jpg" style="width:30%;">
+         <img src="https://img.youtube.com/vi/qEJ4hkpQW8E/0.jpg" style="width:40%;">
       </a>
 </div>
