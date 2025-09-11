@@ -33,7 +33,11 @@
 </p>
 <hr>
 <h3>Profiles:</h3>
-<img src="https://www.codewars.com/users/PHAZERCORE/badges/large" alt="Codwars Badge">
+<div>
+      <a href="https://www.codewars.com/users/PHAZERCORE">
+            <img src="https://www.codewars.com/users/PHAZERCORE/badges/large" alt="Codwars Badge">
+      </a>
+</div>
 <img width="426" height="120" alt="image" src="https://github.com/user-attachments/assets/8ff96c99-5690-4377-baab-5217a7a467f7" />
 <hr>
 <h3>Something important to me: </h3>
