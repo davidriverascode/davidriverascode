@@ -35,7 +35,7 @@
 <h3>Profiles:</h3>
 <div>
       <a href="https://www.codewars.com/users/PHAZERCORE">
-            <img src="https://www.codewars.com/users/PHAZERCORE/badges/large" alt="Codwars Badge">
+            <img src="https://www.codewars.com/users/PHAZERCORE/badges/large" alt="Codewars Badge">
       </a>
 </div>
 <img width="426" height="120" alt="image" src="https://github.com/user-attachments/assets/8ff96c99-5690-4377-baab-5217a7a467f7" />
