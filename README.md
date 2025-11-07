@@ -2,7 +2,7 @@
 <h3 align="center">Creative interested in cybersecurity and anything programming</h3>
 <hr>
 
-- 🌱 I’m currently learning **Python Task Scheduling**
+- 🌱 I’m currently learning **Web Exploitation**
 
 - 💕 I love **programming and building things**
 
