@@ -40,9 +40,3 @@
 </div>
 <img width="426" height="120" alt="image" src="https://github.com/user-attachments/assets/8ff96c99-5690-4377-baab-5217a7a467f7" />
 <hr>
-<h3>Something important to me: </h3>
-<div align="left">
-      <a href="https://www.youtube.com/watch?v=qEJ4hkpQW8E">
-         <img src="https://img.youtube.com/vi/qEJ4hkpQW8E/0.jpg" style="width:40%;">
-      </a>
-</div>
